@@ -1,3 +1,9 @@
+"""
+Implementing pg. 113 -
+
+Incomplete.
+"""
+
 class Contract:
 
     def __init__(self, product, revenue, whenSigned):
